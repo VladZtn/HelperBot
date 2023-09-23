@@ -5,7 +5,7 @@ from PIL import ImageGrab
 import subprocess
 
 
-API_TOKEN = '6027482375:AAH8fUTBKL41WwjIkQ35_jgkUwuhW7sLtTQ'
+API_TOKEN = 'YOUR_TOKEN'
 
 bot = telebot.TeleBot(API_TOKEN)
 
